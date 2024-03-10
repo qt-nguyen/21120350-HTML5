@@ -1,0 +1,24 @@
+table.text-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .text-table th, .text-table    td {
+    border: 1px solid black;
+    padding: 8px;
+  }
+
+span{
+    padding: 10px;
+}
+
+span.title{
+    font-size: 16px;
+    color: blue;
+    font-weight:bold;
+}
+
+span.right-align{
+    text-align:right;
+    font-weight:bold;
+}
